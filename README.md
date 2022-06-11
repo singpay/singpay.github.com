@@ -1,0 +1,2 @@
+# singpay.github.com
+setup
